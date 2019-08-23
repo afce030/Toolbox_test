@@ -1,0 +1,109 @@
+[
+  {
+    "title": "FOX Contenido Básico",
+    "type":"poster",
+    "items":
+    [
+      {
+        "title": "rambo1",
+        "Url": "http://placeimg.com/640/480/any",
+        "Video": ""
+      },
+      {
+        "title": "rambo1",
+        "Url": "http://placeimg.com/640/480/any",
+        "Video": ""
+      },
+      {
+        "title": "rambo1",
+        "Url": "http://placeimg.com/640/480/any",
+        "Video": ""
+      },
+      {
+        "title": "rambo1",
+        "Url": "http://placeimg.com/640/480/any",
+        "Video": ""
+      }
+    ]
+  },
+  {
+    "title": "FOX PLAY +",
+    "type":"Thumb",
+    "items":
+    [
+      {
+        "title": "rambo1",
+        "Url": "http://placeimg.com/640/480/any",
+        "Video": ""
+      },
+      {
+        "title": "rambo1",
+        "Url": "http://placeimg.com/640/480/any",
+        "Video": ""
+      },
+      {
+        "title": "rambo1",
+        "Url": "http://placeimg.com/640/480/any",
+        "Video": ""
+      },
+      {
+        "title": "rambo1",
+        "Url": "http://placeimg.com/640/480/any",
+        "Video": ""
+      }
+    ]
+  },
+  {
+    "title": "FOX Premium",
+    "type":"Poster",
+    "items":
+    [
+      {
+        "title": "rambo1",
+        "Url": "http://placeimg.com/640/480/any",
+        "Video": ""
+      },
+      {
+        "title": "rambo1",
+        "Url": "http://placeimg.com/640/480/any",
+        "Video": ""
+      },
+      {
+        "title": "rambo1",
+        "Url": "http://placeimg.com/640/480/any",
+        "Video": ""
+      },
+      {
+        "title": "rambo1",
+        "Url": "http://placeimg.com/640/480/any",
+        "Video": ""
+      }
+    ]
+  },
+  {
+    "title": "Estrenos",
+    "type":"Thumb",
+    "items":
+    [
+      {
+        "title": "rambo1",
+        "Url": "http://placeimg.com/640/480/any",
+        "Video": ""
+      },
+      {
+        "title": "rambo1",
+        "Url": "http://placeimg.com/640/480/any",
+        "Video": ""
+      },
+      {
+        "title": "rambo1",
+        "Url": "http://placeimg.com/640/480/any",
+        "Video": ""
+      },
+      {
+        "title": "rambo1",
+        "Url": "http://placeimg.com/640/480/any",
+        "Video": ""
+      }
+    ]
+  }]

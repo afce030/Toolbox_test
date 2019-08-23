@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorCarmesi">#B8134B</color>
+    <color name="colorCarmesiOscuro">#740727</color>
+    <color name="colorNaranja">#EC4C07</color>
+    <color name="colorBackground">#090630</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorGray">#717171</color>
+    <color name="colorGray2">#353535</color>
+    <color name="colorBlack">#000000</color>
+</resources>
