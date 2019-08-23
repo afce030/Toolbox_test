@@ -14,7 +14,7 @@ import java.util.List;
 @Dao
 public interface CarouselDAO {
 
-    @Insert(onConflict = OnConflictStrategy.IGNORE)
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
     void insertCar(CarouselEntity carouselEntity);
 
     @Delete

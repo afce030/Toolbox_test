@@ -14,10 +14,9 @@ import java.util.List;
 @Entity(tableName = "Carousels_table")
 public class CarouselEntity {
 
-    @PrimaryKey(autoGenerate = true)
-    private int id;
-
+    @PrimaryKey(autoGenerate = false)
     @ColumnInfo(name = "title")
+    @NonNull
     private String title;
 
     @ColumnInfo(name = "type")
@@ -31,15 +30,7 @@ public class CarouselEntity {
         this.type = type;
         this.items = items;
     }
-
-    public void setId(int id) {
-        this.id = id;
-    }
-
-    public int getId() {
-        return id;
-    }
-
+    
     public String getTitle() {
         return title;
     }
